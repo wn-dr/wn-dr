@@ -1,0 +1,31 @@
+name: Validar assets do README
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/assets/**
+      - scripts/**
+      - .github/workflows/validate-readme-assets.yml
+  pull_request:
+    paths:
+      - README.md
+      - .github/assets/**
+      - scripts/**
+      - .github/workflows/validate-readme-assets.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Verificar geração reproduzível
+        run: python3 scripts/generate_readme_icons.py --check
+      - name: Validar README e SVGs
+        run: python3 scripts/validate_readme_assets.py
+      - name: Testar detecção de erros
+        run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
