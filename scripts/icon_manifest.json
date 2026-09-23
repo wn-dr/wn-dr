@@ -1,0 +1,376 @@
+[
+  {
+    "slug": "power-bi",
+    "name": "Power BI",
+    "accent": "#946300",
+    "category": "📊 Análise e Business Intelligence",
+    "kind": "custom",
+    "symbol": "bi"
+  },
+  {
+    "slug": "excel",
+    "name": "Excel",
+    "accent": "#167344",
+    "category": "📊 Análise e Business Intelligence",
+    "kind": "custom",
+    "symbol": "spreadsheet"
+  },
+  {
+    "slug": "power-query",
+    "name": "Power Query",
+    "accent": "#2B579A",
+    "category": "📊 Análise e Business Intelligence",
+    "kind": "custom",
+    "label": "PQ"
+  },
+  {
+    "slug": "dax",
+    "name": "DAX",
+    "accent": "#5B5FC7",
+    "category": "📊 Análise e Business Intelligence",
+    "kind": "custom",
+    "label": "DAX"
+  },
+  {
+    "slug": "python",
+    "name": "Python",
+    "accent": "#3776AB",
+    "category": "🐍 Linguagens e Bibliotecas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "sql",
+    "name": "SQL",
+    "accent": "#276A9A",
+    "category": "🐍 Linguagens e Bibliotecas",
+    "kind": "custom",
+    "label": "SQL"
+  },
+  {
+    "slug": "pandas",
+    "name": "Pandas",
+    "accent": "#150458",
+    "category": "🐍 Linguagens e Bibliotecas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pandas/pandas-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "numpy",
+    "name": "NumPy",
+    "accent": "#4D77CF",
+    "category": "🐍 Linguagens e Bibliotecas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/numpy/numpy-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "matplotlib",
+    "name": "Matplotlib",
+    "accent": "#276A9A",
+    "category": "🐍 Linguagens e Bibliotecas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/matplotlib/matplotlib-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "scikit-learn",
+    "name": "scikit-learn",
+    "accent": "#A35412",
+    "category": "🐍 Linguagens e Bibliotecas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/scikitlearn/scikitlearn-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "mysql",
+    "name": "MySQL",
+    "accent": "#00618A",
+    "category": "🗄️ Dados",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/mysql/mysql-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "etl",
+    "name": "ETL",
+    "accent": "#087E8B",
+    "category": "🗄️ Dados",
+    "kind": "custom",
+    "symbol": "flow"
+  },
+  {
+    "slug": "pipelines",
+    "name": "Pipelines de Dados",
+    "accent": "#276A9A",
+    "category": "🗄️ Dados",
+    "kind": "custom",
+    "symbol": "pipeline"
+  },
+  {
+    "slug": "modeling",
+    "name": "Modelagem de Dados",
+    "accent": "#6857B3",
+    "category": "🗄️ Dados",
+    "kind": "custom",
+    "symbol": "model"
+  },
+  {
+    "slug": "data-cleaning",
+    "name": "Tratamento de Dados",
+    "accent": "#167344",
+    "category": "🗄️ Dados",
+    "kind": "custom",
+    "symbol": "clean"
+  },
+  {
+    "slug": "outliers",
+    "name": "Identificação e Tratamento de Outliers",
+    "accent": "#B74B36",
+    "category": "🗄️ Dados",
+    "kind": "custom",
+    "symbol": "outliers"
+  },
+  {
+    "slug": "statistics",
+    "name": "Estatística Aplicada",
+    "accent": "#6857B3",
+    "category": "📐 Estatística",
+    "kind": "custom",
+    "symbol": "curve"
+  },
+  {
+    "slug": "descriptive-statistics",
+    "name": "Estatística Descritiva",
+    "accent": "#276A9A",
+    "category": "📐 Estatística",
+    "kind": "custom",
+    "symbol": "bars"
+  },
+  {
+    "slug": "mean",
+    "name": "Média",
+    "accent": "#087E8B",
+    "category": "📐 Estatística",
+    "kind": "custom",
+    "symbol": "mean"
+  },
+  {
+    "slug": "median",
+    "name": "Mediana",
+    "accent": "#167344",
+    "category": "📐 Estatística",
+    "kind": "custom",
+    "symbol": "median"
+  },
+  {
+    "slug": "mode",
+    "name": "Moda",
+    "accent": "#946300",
+    "category": "📐 Estatística",
+    "kind": "custom",
+    "symbol": "mode"
+  },
+  {
+    "slug": "hypothesis-testing",
+    "name": "Teste de Hipóteses",
+    "accent": "#A24771",
+    "category": "📐 Estatística",
+    "kind": "custom",
+    "symbol": "hypothesis"
+  },
+  {
+    "slug": "git",
+    "name": "Git",
+    "accent": "#F05032",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "accent": "#24292F",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/github/github-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "github-projects",
+    "name": "GitHub Projects",
+    "accent": "#6857B3",
+    "category": "🛠️ Ferramentas",
+    "kind": "custom",
+    "symbol": "board"
+  },
+  {
+    "slug": "jupyter",
+    "name": "Jupyter Notebook",
+    "accent": "#B65D16",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/jupyter/jupyter-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "vscode",
+    "name": "Visual Studio Code",
+    "accent": "#007ACC",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/vscode/vscode-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "jira",
+    "name": "Jira",
+    "accent": "#0052CC",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/jira/jira-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "trello",
+    "name": "Trello",
+    "accent": "#0052CC",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/trello/trello-original.svg",
+    "collection": "Devicon",
+    "license": "MIT (coleção)"
+  },
+  {
+    "slug": "miro",
+    "name": "Miro",
+    "accent": "#262626",
+    "category": "🛠️ Ferramentas",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/b86d5c9a0bdd4f3f5c30898a63654dd32f39fd76/icons/miro.svg",
+    "collection": "Simple Icons",
+    "license": "CC0 (coleção; marcas reservadas)"
+  },
+  {
+    "slug": "scrum",
+    "name": "Scrum",
+    "accent": "#087E8B",
+    "category": "🔄 Gestão Ágil",
+    "kind": "custom",
+    "symbol": "cycle"
+  },
+  {
+    "slug": "kanban",
+    "name": "Kanban",
+    "accent": "#276A9A",
+    "category": "🔄 Gestão Ágil",
+    "kind": "custom",
+    "symbol": "board"
+  },
+  {
+    "slug": "sprint",
+    "name": "Sprints",
+    "accent": "#6857B3",
+    "category": "🔄 Gestão Ágil",
+    "kind": "custom",
+    "symbol": "sprint"
+  },
+  {
+    "slug": "backlog",
+    "name": "Backlog",
+    "accent": "#A35412",
+    "category": "🔄 Gestão Ágil",
+    "kind": "custom",
+    "symbol": "list"
+  },
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "accent": "#167344",
+    "category": "🤖 IA Generativa e Produtividade",
+    "kind": "custom",
+    "symbol": "chat"
+  },
+  {
+    "slug": "codex",
+    "name": "Codex",
+    "accent": "#24292F",
+    "category": "🤖 IA Generativa e Produtividade",
+    "kind": "custom",
+    "symbol": "code"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "accent": "#B85E42",
+    "category": "🤖 IA Generativa e Produtividade",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/b86d5c9a0bdd4f3f5c30898a63654dd32f39fd76/icons/claude.svg",
+    "collection": "Simple Icons",
+    "license": "CC0 (coleção; marcas reservadas)"
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "accent": "#316BCB",
+    "category": "🤖 IA Generativa e Produtividade",
+    "kind": "brand",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/b86d5c9a0bdd4f3f5c30898a63654dd32f39fd76/icons/googlegemini.svg",
+    "collection": "Simple Icons",
+    "license": "CC0 (coleção; marcas reservadas)"
+  },
+  {
+    "slug": "copilot",
+    "name": "Microsoft Copilot",
+    "accent": "#6857B3",
+    "category": "🤖 IA Generativa e Produtividade",
+    "kind": "custom",
+    "symbol": "assistant"
+  },
+  {
+    "slug": "big-data",
+    "name": "Big Data",
+    "accent": "#276A9A",
+    "category": "📚 Conhecimentos",
+    "kind": "custom",
+    "symbol": "database"
+  },
+  {
+    "slug": "machine-learning",
+    "name": "Machine Learning",
+    "accent": "#6857B3",
+    "category": "📚 Conhecimentos",
+    "kind": "custom",
+    "symbol": "network"
+  },
+  {
+    "slug": "ai-data",
+    "name": "IA aplicada a Dados",
+    "accent": "#087E8B",
+    "category": "📚 Conhecimentos",
+    "kind": "custom",
+    "symbol": "ai"
+  },
+  {
+    "slug": "automation",
+    "name": "Automação de Processos",
+    "accent": "#A35412",
+    "category": "📚 Conhecimentos",
+    "kind": "custom",
+    "symbol": "automation"
+  }
+]
