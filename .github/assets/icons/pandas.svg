@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Pandas</title>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="#F1F5F9" stroke="#94A3B8"/>
+  <svg x="12" y="12" width="40" height="40" viewBox="0 0 128 128" fill="#150458"><path xmlns="http://www.w3.org/2000/svg" fill="#130754" d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z" /><path xmlns="http://www.w3.org/2000/svg" fill="#ffca00" d="M46.236 45.092h13.99v13.705h-13.99Z" /><path xmlns="http://www.w3.org/2000/svg" fill="#130754" d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z" /><path xmlns="http://www.w3.org/2000/svg" fill="#e70488" d="M68.245 69.011h13.99v13.705h-13.99Z" /><path xmlns="http://www.w3.org/2000/svg" fill="#130754" d="M90.248 0h13.99v96.554h-13.99Z" /></svg>
+  <rect x="25" y="56" width="14" height="3" rx="1.5" fill="#150458"/>
+</svg>

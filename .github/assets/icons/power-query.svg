@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Power Query</title>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="#F1F5F9" stroke="#94A3B8"/>
+  <g color="#2B579A" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><text x="32" y="34" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="18" font-weight="700" fill="currentColor" stroke="none">PQ</text></g>
+  <rect x="25" y="56" width="14" height="3" rx="1.5" fill="#2B579A"/>
+</svg>
